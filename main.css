@@ -1,0 +1,17 @@
+.jumbotron h1{
+  font-size: 72px;
+  text-color: black; 
+}
+/*Leaned how to change from stackoverflow*/
+#Nav a {
+    color: white;
+    background-color: black;
+}
+
+#Nav a:hover {
+    color:#7FFF00;
+    text-decoration: underline;
+}
+.jumbotron{
+background-image: linear-gradient(-90deg, #7FFF00, #00e6e6);
+}
